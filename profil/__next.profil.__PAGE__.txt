@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[27834,["/v0-fitness-exercise-website/_next/static/chunks/3337476739009024.js","/v0-fitness-exercise-website/_next/static/chunks/796e7f5bb07ad38d.js"],"ClientPageRoot"]
+3:I[78009,["/v0-fitness-exercise-website/_next/static/chunks/42a12c670c38125f.js","/v0-fitness-exercise-website/_next/static/chunks/3c4593707573d84c.js","/v0-fitness-exercise-website/_next/static/chunks/c410d11e2f448249.js"],"default"]
+6:I[89836,["/v0-fitness-exercise-website/_next/static/chunks/3337476739009024.js","/v0-fitness-exercise-website/_next/static/chunks/796e7f5bb07ad38d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"IuUtgya1VbwsjeDMOxFsG","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/v0-fitness-exercise-website/_next/static/chunks/3c4593707573d84c.js","async":true}],["$","script","script-1",{"src":"/v0-fitness-exercise-website/_next/static/chunks/c410d11e2f448249.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null

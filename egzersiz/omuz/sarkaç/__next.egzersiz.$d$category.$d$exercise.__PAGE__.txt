@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[31074,["/v0-fitness-exercise-website/_next/static/chunks/42a12c670c38125f.js","/v0-fitness-exercise-website/_next/static/chunks/7e011dac684150bc.js","/v0-fitness-exercise-website/_next/static/chunks/fbe9bab46e16ec84.js"],"default"]
+4:I[89836,["/v0-fitness-exercise-website/_next/static/chunks/3337476739009024.js","/v0-fitness-exercise-website/_next/static/chunks/796e7f5bb07ad38d.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"IuUtgya1VbwsjeDMOxFsG","rsc":["$","$1","c",{"children":[["$","$L2",null,{"params":"$@3"}],[["$","script","script-0",{"src":"/v0-fitness-exercise-website/_next/static/chunks/7e011dac684150bc.js","async":true}],["$","script","script-1",{"src":"/v0-fitness-exercise-website/_next/static/chunks/fbe9bab46e16ec84.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+3:{"category":"omuz","exercise":"sarka%C3%A7"}
+6:null
